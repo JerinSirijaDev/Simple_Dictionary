@@ -1,6 +1,6 @@
-# Android Dictionary App
+# Simple Dictionary App
 
-**Android Dictionary App** is a fully functional 'really simple dictionary application' designed for Android devices. Developed using **Kotlin**, the app offers users a quick and efficient way to look up word definitions, synonyms, antonyms, and example sentences. The app seamlessly integrates with an online dictionary API using **Retrofit**, ensuring accuracy and real-time data.
+**Simple Dictionary App** is a fully functional 'really simple dictionary application' designed for Android devices. Developed using **Kotlin**, the app offers users a quick and efficient way to look up word definitions, synonyms, antonyms, and example sentences. The app seamlessly integrates with an online dictionary API using **Retrofit**, ensuring accuracy and real-time data.
 
 ---
 
